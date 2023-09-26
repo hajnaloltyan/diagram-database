@@ -85,6 +85,10 @@ To run the project use pgAdmin.
 
 ## 👥 Authors <a name="authors"></a>
 
+👤 **Benson Kiai**
+- GitHub: [@Benson](https://github.com/BenMKT)
+- LinkedIn: [Benson Kiai](https://www.linkedin.com/in/bensonkiai)
+
 👤 **Hajnalka Oltyan**
 
 - GitHub: [@hajnaloltyan](https://github.com/hajnaloltyan)
